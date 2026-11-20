@@ -1,0 +1,67 @@
+[
+  {
+    "path": "CHANGELOG.md",
+    "bytes": 435,
+    "sha256": "6d674ab465835590be2aaee062c61a6535905a4a6d9aa006361f36fa93c802da"
+  },
+  {
+    "path": "CONTRIBUTING.md",
+    "bytes": 1134,
+    "sha256": "e88ce617cbb33916d189fe4b01ab71860781e287f2bc9ff550607de382d01134"
+  },
+  {
+    "path": "LICENSE_STATUS.md",
+    "bytes": 453,
+    "sha256": "348d9a763ebf14b8eef540c946402a117323b1e1062e4967f4378d81ff20ae67"
+  },
+  {
+    "path": "README.md",
+    "bytes": 4032,
+    "sha256": "5643ee24a0b2ca51d0ffd899f6b746180f0b862275da6a953406da140dd0a1ea"
+  },
+  {
+    "path": "docs/CORE_MODEL.md",
+    "bytes": 2413,
+    "sha256": "f4aae522258d825586e1feb587c8ea6eda79da15f03b2aa5f9e0bd81663629b2"
+  },
+  {
+    "path": "docs/ETHICS.md",
+    "bytes": 1306,
+    "sha256": "32185f250e96ea9be541776879f0f38a309ef4ea30613349a83575f1f0c35420"
+  },
+  {
+    "path": "docs/EXAMPLES.md",
+    "bytes": 1413,
+    "sha256": "0e17311852412912577ad410c719bf2635fc6e6715cca07bb142317d4a0f84d7"
+  },
+  {
+    "path": "docs/OBSERVATION_LOOP.md",
+    "bytes": 1720,
+    "sha256": "6c115336446231a916f3b76b6751e9744fca7e1dfb6ce23dbc605ee32d5bf236"
+  },
+  {
+    "path": "docs/OPEN_QUESTIONS.md",
+    "bytes": 1485,
+    "sha256": "db4b60c445bf6614a6146b7d85b93662901cd37311465e046e32e675fe3875e5"
+  },
+  {
+    "path": "docs/RESEARCH_STATUS.md",
+    "bytes": 2020,
+    "sha256": "7b69e409a265de7781faff0c36d9590d89705aa444d36d01a5f9089648bf981f"
+  },
+  {
+    "path": "docs/ROADMAP.md",
+    "bytes": 1293,
+    "sha256": "0bde2c88b21550f9f6035210969f6f75c0570312ef5973f7abfa85f8db98eddc"
+  },
+  {
+    "path": "docs/SIGNAL_SCHEMA.md",
+    "bytes": 1846,
+    "sha256": "d1fd91d20d20ce8351f01796df9c033c39a642f2a592fd5036d8be81de4dd695"
+  },
+  {
+    "path": "docs/STATE_TRANSITIONS.md",
+    "bytes": 1586,
+    "sha256": "657339f7cf1daa0910571cf89e6a70a10adc6016f0d08a5f52f0b3538fa7015a"
+  }
+]
